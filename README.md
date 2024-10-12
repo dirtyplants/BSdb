@@ -1,6 +1,6 @@
 # BSdb Repository
 
-This is a repository for the Breeding System Database and files related to Zell et al. _New Phytologist_ submission, accepted on October 7th, 2024. 
+This is a repository for the Breeding System Database and files related to Zell et al. New Phytologist journal submission, accepted on October 7th, 2024, entitled, _Island colonization in flowering plants is determined by the interplay of breeding system, lifespan, floral symmetry, and arrival opportunity_.
 
 It contains the following: 
 
